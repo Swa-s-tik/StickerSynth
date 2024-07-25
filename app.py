@@ -3,7 +3,6 @@ import requests
 import io
 from PIL import Image
 import os
-from dotenv import load_dotenv
 import time
 
 # Load environment variables
