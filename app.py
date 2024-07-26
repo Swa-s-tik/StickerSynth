@@ -65,7 +65,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Streamlit UI
-st.markdown('<p class="title-text">🎨 Sticker Generator</p>', unsafe_allow_html=True)
+st.markdown('<p class="title-text">🎨 StickerSynth</p>', unsafe_allow_html=True)
 st.markdown('<p class="subtitle-text">Create unique stickers with AI-powered text-to-image generation!</p>', unsafe_allow_html=True)
 
 # Create two columns
