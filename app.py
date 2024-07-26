@@ -5,8 +5,8 @@ from PIL import Image
 import os
 import time
 
-# Load environment variables
-load_dotenv()
+# # Load environment variables
+# load_dotenv()
 
 # Streamlit app configuration
 st.set_page_config(page_title="Sticker Generator", page_icon="🎨")
